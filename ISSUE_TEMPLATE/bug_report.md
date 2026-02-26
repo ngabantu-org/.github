@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: Report a reproducible problem or regression.
+title: "[Bug]: "
+labels: ["bug"]
+assignees: []
+---
+
 <!--
 Ngabantu Bug Report Template
 Calm, respectful, actionable
