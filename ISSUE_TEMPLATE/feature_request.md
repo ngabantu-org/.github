@@ -1,3 +1,11 @@
+---
+name: Feature request
+about: Suggest an improvement grounded in a user or operational problem.
+title: "[Feature]: "
+labels: ["enhancement"]
+assignees: []
+---
+
 <!--
 Ngabantu Feature Request Template
 Thoughtful, problem-first
